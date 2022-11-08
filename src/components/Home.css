@@ -1,0 +1,66 @@
+.Desc>h1{
+    font-size: 55px;
+    text-align: center;
+    color: #212121;
+    font-weight: 700;
+}
+
+
+.Desc>h3{
+    text-align: center;
+    margin-top: -2rem;
+    font-weight:500;
+    font-size: 28px;
+    color: #1d1d1d;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: -2rem;
+    gap: 25px;
+    color:#2962ff;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+@media (max-width:991px){
+    .Desc>h1{
+        font-size: 35px;
+    } 
+    
+    .Desc>h3{
+      
+        margin-top: -1.5rem;
+        font-weight:500;
+        font-size: 18px;
+        
+    }
+
+    .buttons{
+        color:#2962ff;
+        font-weight: 400;
+        font-size: 15px!important;
+    }
+}
+
+@media (max-width:320px){
+    .Desc>h1{
+        font-size: 25px;
+    } 
+    
+    .Desc>h3{
+      
+        margin-top: -1.2rem;
+        font-weight:500;
+        font-size: 14px;
+        
+    }
+
+    .buttons{
+        color:#2962ff;
+        font-weight: 400;
+        font-size: 10px!important;
+    }
+}
+

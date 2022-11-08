@@ -1,0 +1,86 @@
+.Desc__Card1>h1{
+    font-size: 35px;
+    text-align: center;
+    color: #fafafa;
+    font-weight: 700;
+}
+
+.Desc__Card1>h3{
+    text-align: center;
+    margin-top: -1.3rem;
+    font-weight:500;
+    font-size: 18px;
+    color: #fafafa;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5rem;
+    gap: 20px;
+    color:#2962ff;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.M2__img{
+    width: 30px;
+}
+
+.Desc__Card2>h1{
+    font-size: 35px;
+    text-align: center;
+    color: #212121;
+    font-weight: 700;
+}
+
+.Desc__Card2>h3{
+    text-align: center;
+   margin-top: -10px;
+    font-weight:400;
+    font-size: 18px;
+    color: #212121;
+    padding: 0;
+}
+
+@media (max-width:320px){
+    
+    .Desc__Card1>h1{
+        font-size: 25px;
+        
+    }
+    
+    .Desc__Card1>h3{
+        
+        font-size: 14px;
+        
+    }
+    
+    .buttons{
+        display: flex;
+        justify-content: center;
+        margin-top: -1.5rem;
+        gap: 20px;
+        color:#2962ff;
+        font-weight: 400;
+        font-size: 12px;
+    }
+    
+    .M2__img{
+        width: 20px;
+    }
+    
+    .Desc__Card2>h1{
+        font-size: 25px;
+       
+    }
+    
+    .Desc__Card2>h3{
+        
+        font-size: 14px;
+        
+    }
+}
+
+
+

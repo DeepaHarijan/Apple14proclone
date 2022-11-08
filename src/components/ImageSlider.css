@@ -1,0 +1,13 @@
+.container{
+    padding: 30px;
+    width: 100%;
+    background: url("https://is1-ssl.mzstatic.com/image/thumb/BbgB29IpzbsElUUy-SFe0g/1679x945sr.webp");
+    
+  
+}
+
+img{
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

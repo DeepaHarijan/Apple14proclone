@@ -1,0 +1,63 @@
+ul{
+    list-style: none;
+    font-size: 12px;
+}
+
+li{
+    padding: 5px;
+    color: #3b3b3b;
+}
+
+.fListItem{
+    cursor: pointer;
+}
+.heading{
+color: #212121;
+}
+
+.pTag{
+    font-size: 12px;
+    color: #5e5d5d;
+}
+
+.CRul{
+    display: flex;
+}
+
+.ResponsiveFooterMenu{
+    display: none;
+   
+}
+
+
+
+
+@media (max-width:991px){
+    .pTag{
+        font-size: 8px;
+        color: #5e5d5d;
+        
+    }
+
+    .paragraph{
+        padding: 20px;
+    }
+
+    .ResponsiveFooterMenu{
+        max-width: 100%;
+        display: flex;
+        justify-content: space-between;
+       display: block;
+       margin-left: -20px;
+    }
+    
+    .resMenu{
+    display: flex;
+    justify-content: space-between;
+    
+    }
+
+    .fLists{
+        display: none;
+    }
+}
