@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Apple14proclone/static/css/main.5a87f81d.css",
+    "main.js": "/Apple14proclone/static/js/main.a8d63cdd.js",
+    "static/js/787.3341ff6b.chunk.js": "/Apple14proclone/static/js/787.3341ff6b.chunk.js",
+    "static/media/movie2.png": "/Apple14proclone/static/media/movie2.40534554d89ed8361b0f.png",
+    "static/media/movie1.png": "/Apple14proclone/static/media/movie1.dd116f7cb3456b578bb5.png",
+    "static/media/movie3.png": "/Apple14proclone/static/media/movie3.7e971bf664edf9fe5e43.png",
+    "static/media/movie5.png": "/Apple14proclone/static/media/movie5.bf12a238fa5cbb45b1c9.png",
+    "static/media/movie4.png": "/Apple14proclone/static/media/movie4.c30d95c8388755081364.png",
+    "static/media/watch-series8.png": "/Apple14proclone/static/media/watch-series8.890be0bd7a2dbc2921c6.png",
+    "static/media/ipad-pro-bg.png": "/Apple14proclone/static/media/ipad-pro-bg.bcbc55acdd66623aca2d.png",
+    "static/media/i14pro2.png": "/Apple14proclone/static/media/i14pro2.08db4e9867fda5a42a36.png",
+    "static/media/watch-ultra.png": "/Apple14proclone/static/media/watch-ultra.ce942605031e3c272b2d.png",
+    "static/media/airpods.png": "/Apple14proclone/static/media/airpods.5e056e79708a4f1acf84.png",
+    "static/media/i14.png": "/Apple14proclone/static/media/i14.4b0acefea9d0db19bc88.png",
+    "static/media/m2.jpg": "/Apple14proclone/static/media/m2.6e2247dcbbf5e608baad.jpg",
+    "static/media/HomeImage.jpg": "/Apple14proclone/static/media/HomeImage.c6f744f23ad2b35c931c.jpg",
+    "static/media/macbook.png": "/Apple14proclone/static/media/macbook.2b649e696db0fa8fa892.png",
+    "static/media/tv-4k.png": "/Apple14proclone/static/media/tv-4k.dfb5ac56f75c6f8694f8.png",
+    "static/media/logo3.png": "/Apple14proclone/static/media/logo3.9049720c88afbd244b40.png",
+    "static/media/tv-logo3.png": "/Apple14proclone/static/media/tv-logo3.77c6b4f0f558bcb21c0b.png",
+    "index.html": "/Apple14proclone/index.html",
+    "main.5a87f81d.css.map": "/Apple14proclone/static/css/main.5a87f81d.css.map",
+    "main.a8d63cdd.js.map": "/Apple14proclone/static/js/main.a8d63cdd.js.map",
+    "787.3341ff6b.chunk.js.map": "/Apple14proclone/static/js/787.3341ff6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a87f81d.css",
+    "static/js/main.a8d63cdd.js"
+  ]
+}
