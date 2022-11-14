@@ -14,7 +14,7 @@ const Wrapper = styled.div`
   display: flex;
   justify-content: center;
   
-
+ 
 `
 const Info = styled.div`
     width: 800px;
@@ -23,6 +23,10 @@ const Info = styled.div`
     justify-content: space-between;
     align-items: center;
     margin-bottom: 30px;
+    
+    @media (max-width:260px){
+      width:500px;
+    } 
 `
 const Image = styled.img`
   width  :50% ;
@@ -32,11 +36,18 @@ const Image = styled.img`
     width: 35%;
     margin-left: 15px;
   }
+
+  
 `
 const Desc = styled.div`
 width: 100%;
 padding: 10px;
 margin-left: -5rem;
+
+@media (max-width:260px){
+      padding: 5px;
+      margin-left: -2rem;
+    }
 `
 const Home = () => {
   return (

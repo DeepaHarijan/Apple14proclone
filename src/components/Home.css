@@ -64,3 +64,24 @@
     }
 }
 
+
+@media (max-width:250px){
+    .Desc>h1{
+        font-size: 18px;
+    } 
+    
+    .Desc>h3{
+      
+        margin-top: -1.2rem;
+        font-weight:500;
+        font-size: 12px;
+        
+    }
+
+    .buttons{
+        color:#2962ff;
+        font-weight: 400;
+        font-size: 5px!important;
+    }
+}
+

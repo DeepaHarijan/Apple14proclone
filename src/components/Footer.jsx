@@ -30,7 +30,7 @@ const List = styled.div`
   gap  :50px ;
 
   @media (max-width:991px){
-    
+    padding: 8px;
   }
 `
 
